@@ -5,4 +5,6 @@ Dit is mijn portfolio:
 
 https://github.com/MartijnBraad
 
-<p><a href="https://github.com/MartijnBraad"><img src"GitHub-Mark-64px.png"</a></p>
+<p><img src"GitHub-Mark-64px.png"></p>
+  
+  https://github.com/MartijnBraad
