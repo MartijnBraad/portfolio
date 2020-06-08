@@ -1,7 +1,9 @@
 # portfolio
 
-Mijn naam is Martijn Braad
+Mijn naam is Martijn Braad.
+
 Ik ben eerstejaars student aan de opleiding Communication & Multimedia Design op Hogeschool Zuyd.
+
 In deze pagina zijn al mijn schoolopdrachten terug te vinden.
 <p><img src="me.jpg"></p>
 
