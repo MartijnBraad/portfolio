@@ -3,7 +3,5 @@
 
 Dit is mijn portfolio:
 
-https://github.com/MartijnBraad
-
-<p><img src="logo.png"></p>
+<p><a href="https://github.com/MartijnBraad"><img src="logo.png"></p>
   
