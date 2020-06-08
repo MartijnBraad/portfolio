@@ -7,4 +7,3 @@ https://github.com/MartijnBraad
 
 <p><img src"GitHub-Mark-64px.png"></p>
   
-  https://github.com/MartijnBraad
